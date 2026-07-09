@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -22,12 +22,12 @@
 * 🧠 Regularly solving **Data Structures & Algorithms**
 * 🎯 Working toward Software Engineering internships
 
----
+
 
 ## 🛠️ Tech Stack
-
-### Languages
 <div align = "center">
+### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
@@ -56,7 +56,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
 </p>
 </div>
----
 
 
 ## 🌐 Connect With Me
@@ -65,10 +64,6 @@
 <a href="https://www.linkedin.com/in/venkat-prabhu-s-59ab173a8/">LinkedIn</a> •
 <a href="mailto:svenkatprabhu2167@gmail.com">Email</a> •
 </p>
-</div>
----
-
-<div align="center">
 
 *"Code. Learn. Build. Repeat."*
 
