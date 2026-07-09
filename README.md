@@ -58,35 +58,15 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 💰 Wealth Tracker
-
-> Full-stack finance management application built using React, Spring Boot, and MongoDB.
-
-### 🎓 SkillBridge
-
-> Student skill and internship management platform.
-
-### 📅 AI Timetable Scheduler
-
-> Intelligent timetable generator using optimization algorithms.
-
-### 🌐 Java Network Packet Analyzer *(Work in Progress)*
-
-> Building a Wireshark-inspired packet analyzer to learn packet capture and protocol analysis.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VenkatPrabhu-21E&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatPrabhu-21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VenkatPrabhu-21&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VenkatPrabhu-21&theme=tokyonight&no-frame=true&column=6"/>
 </p>
 
 ---
