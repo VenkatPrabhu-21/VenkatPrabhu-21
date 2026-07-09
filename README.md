@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
+<div align = "center">
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
@@ -55,45 +55,21 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
 </p>
-
+</div>
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VenkatPrabhu-21E&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatPrabhu-21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VenkatPrabhu-21&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VenkatPrabhu-21&theme=tokyonight&no-frame=true&column=6"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
-
+<div align="center">
 <p>
 <a href="https://www.linkedin.com/in/venkat-prabhu-s-59ab173a8/">LinkedIn</a> •
 <a href="mailto:svenkatprabhu2167@gmail.com">Email</a> •
 </p>
-
+</div>
 ---
 
 <div align="center">
 
-### 💬 Favorite Quote
-
 *"Code. Learn. Build. Repeat."*
-
-![](https://komarev.com/ghpvc/?username=VenkatPrabhu-21\&style=for-the-badge)
 
 </div>
