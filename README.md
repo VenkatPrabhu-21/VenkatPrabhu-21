@@ -26,8 +26,8 @@
 
 ## 🛠️ Tech Stack
 <div align = "center">
-Languages
 
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
